@@ -7,6 +7,7 @@ LABEL = 'Chapter'
 SPEC_FILE = 'chapter_review.md'
 EXTRACT_CODE = False
 
+
 INSTRUCTIONS = (
     "Eres el revisor final (Chapter). Revisa los artefactos aprobados de los pasos anteriores "
     "(historia/arquitectura, persistencia si existe, backend, frontend, pruebas y seguridad) "
